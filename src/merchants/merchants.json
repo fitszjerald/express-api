@@ -6,98 +6,14 @@
       "description": null
     },
     {
-      "id": 233854,
-      "name": "ساعتچی",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 228150,
-      "name": "فوبورو",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 241148,
-      "name": "بهشت درمان",
-      "enabled": null,
-      "description": null
-    },
-    {
       "id": 42777,
       "name": "جنستون",
       "enabled": null,
       "description": null
     },
     {
-      "id": 236471,
-      "name": "چیدمان برتر",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 79675,
-      "name": "وان تک",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 2660,
-      "name": "آسان‌جهاز",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 240890,
-      "name": "مای اجیل",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 252738,
-      "name": "مارسین",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 221446,
-      "name": "لوکس ایرانا",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 251345,
-      "name": "گابیانی",
-      "enabled": null,
-      "description": null
-    },
-    {
       "id": 256077,
       "name": "شیمالی",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 246565,
-      "name": "دیده دکور",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 254917,
-      "name": "تیم کالا",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 227220,
-      "name": "عینک مجیدی",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 233284,
-      "name": "خانه رویایی",
       "enabled": null,
       "description": null
     },
@@ -114,32 +30,8 @@
       "description": null
     },
     {
-      "id": 259186,
-      "name": "اتود",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 242980,
-      "name": "شاپینو",
-      "enabled": null,
-      "description": null
-    },
-    {
       "id": 115041,
       "name": "ساز کالا",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 58308,
-      "name": "دیجی کده",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 368664,
-      "name": "کارما یدک",
       "enabled": null,
       "description": null
     },
@@ -156,12 +48,6 @@
       "description": null
     },
     {
-      "id": 590039,
-      "name": "پاکشوما",
-      "enabled": null,
-      "description": null
-    },
-    {
       "id": 663770,
       "name": "فرش پاتریس",
       "enabled": null,
@@ -174,38 +60,8 @@
       "description": null
     },
     {
-      "id": 751449,
-      "name": "هولوسن",
-      "enabled": null,
-      "description": null
-    },
-    {
       "id": 2687,
       "name": "کالاوما",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 407250,
-      "name": "اورو گالری",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 49463,
-      "name": "پلازا دیجیتال",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 244087,
-      "name": "هماتیت گلد",
-      "enabled": null,
-      "description": null
-    },
-    {
-      "id": 813783,
-      "name": "خانه ساعت",
       "enabled": null,
       "description": null
     }
